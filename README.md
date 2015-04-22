@@ -1,9 +1,8 @@
-# xue.js
-xue.js is javascript framework
-
 ![XESUI icon](src/img/logo/xue.ui.256.png)
 
-#XUE.JS v1.0.0
+#XUE.JS
+
+> v1.0.0
 
 [XUE.JS](http://xesui.com/) 是学而思网校的前端框架。其中包括网校的样式解决方案，UI组件的交互效果，技术文档，以及一整套学而思网校前端架构解决方案。目前还处于测试阶段，仅供内部使用。
 
