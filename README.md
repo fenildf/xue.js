@@ -56,4 +56,4 @@
 
 
 ![xuejs.logo icon](src/img/logo/xue.ui.88_31.png)
-![xuejs.logo_gray icon](src/img/logo/xue.ui.88_31.png)
+![xuejs.logo_gray icon](src/img/logo/xue.ui.88_31_gray.png)
