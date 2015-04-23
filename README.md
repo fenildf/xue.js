@@ -2,12 +2,23 @@
 
 #XUE.JS
 
-> v1.0.0
+## 版本说明
+> 当前版本：v1.0.0 （原XESUI v0.5 版）
+> 
+> 更新日期：2015/4/22
 
-[XUE.JS](http://xesui.com/) 是学而思网校的前端框架。其中包括网校的样式解决方案，UI组件的交互效果，技术文档，以及一整套学而思网校前端架构解决方案。目前还处于测试阶段，仅供内部使用。
 
-* 当前版本：v1.0
-* 最后更新：2015-4-22
+##主题：蜕变：
+1. 名称：2015年 xesui更名xue.js
+2. Logo：由原来的字母加树叶转变为蝴蝶造型的X
+
+## 介绍
+
+1. 前身是XESUI，即原学而思网校前端框架；
+2. 现改为XUE.JS 致力于学而思网校前端解决方案，其中包括三个方面：
+	+ 自动化工具、性能优化、模块化框架、开发规范、代码部署、开发流程等；
+	+ HTML5跨屏前端框架；
+	+ 构建WEB应用
 
 
 ## 目录结构
@@ -15,13 +26,7 @@
 
 ## 使用帮助
 
-1. [文件结构](docs/structures.md)：文档目录结构 
-    - html: [../html/](source/html)  
-    - less: [../less/](source/less) 
-    - css:  [../css/](source/css)   
-    - img:  [../img/](source/img)   
-    - js:   [../js/](source/js)     
-       
+1. [安装部署](docs/structures.md)：   
 2. [命名规则](docs/nomenclature.md)：CSS、JS命名规则
 3. [结构文档](docs/DOM.html)：DOM结构
 4. [模块组件](docs/module.md)：模块组件组件介绍
@@ -31,29 +36,35 @@
 8. on [github](https://github.com/xueersi/xue.js)
 
 
-## 版本更新日志
+## 更新日志
 
-* **v0.4.7.5** ：
-
-    - jQuery采用直接输出到页面中的方式，而不是外部调用，减少1次请求；
-    - 重新整理目录结构：
-         - 分离pic文件夹到到source根目录下；
-         - 头图分离到 theme / default / img / 文件夹下，固定命名为 header.jpg；
-    - 优化页面细节：
-         - 统一头部结构；
-         - 修正icon问题；
+* **v1.0.0.3** ：2015/4/22
+	- 编写说明文档
+	
+* **v1.0.0.2** ：2015/4/21
+	- 投票确定Logo图案；
+	
+* **v1.0.0.1** ：2015/4/20
+	- 重绘Logo；
 
 
 ## 团队介绍
 
-* [@Marco](http://weibo.com/wjay): 负责xesui整体架构
-* [@Alex](http://weibo.com/12kbs): 四年WEB前端重构经验，负责结构以及模块组件的样式编写
-* [@bluebird](http://weibo.com/u/2209651391): 四年WEB前端重构经验，负责模块组件编写及Less文件组织
-* [@D.Star](http://weibo.com/u/3280573484): 负责xesui交互模块组件的维护
+* [@Marco](http://weibo.com/wjay): 负责xue.js整体架构
+* [@蓦然_alex](http://weibo.com/12kbs): 六年WEB前端重构经验，负责模块组件的编写
+* [@dear新利](http://weibo.com/u/2117501250): 
+* [@yang云飞扬](http://weibo.com/u/2137080181): 
+* [@珊珊Miss晴晴](http://weibo.com/u/3866270408): 
+* [@obadogg鹤儿](http://weibo.com/u/1380447750): 
 
 
 ## 版权及许可
 
+## 资源
 
-![xuejs.logo icon](src/img/logo/xue.ui.88_31.png)
-![xuejs.logo_gray icon](src/img/logo/xue.ui.88_31_gray.png)
+说明|尺寸| 图片
+----|---|---
+友链Logo（浅）| 88 x 31 |![xuejs.logo icon](src/img/logo/xue.ui.88_31.png)
+友链Logo（深）| 88 x 31 |![xuejs.logo icon](src/img/logo/xue.ui.88_31_gray.png)
+宣传Logo（浅）| 256x256 |![xuejs.logo icon](src/img/logo/xue.ui.256.png)
+宣传Logo（灰）| 256x256 |![xuejs.logo icon](src/img/logo/xue.ui.256_gray.png)
