@@ -1,10 +1,10 @@
-![XESUI icon](src/img/logo/xue.ui.256.png)
+![XESUI icon](src/img/logo/xuejs_logo_400_light_font.png)
 
 #XUE.JS
 
 ## 版本说明
 > 当前版本：v1.0.0 （原XESUI v0.5 版）
-> 
+>
 > 更新日期：2015/4/22
 
 
@@ -26,7 +26,7 @@
 
 ## 使用帮助
 
-1. [安装部署](docs/structures.md)：   
+1. [安装部署](docs/structures.md)：
 2. [命名规则](docs/nomenclature.md)：CSS、JS命名规则
 3. [结构文档](docs/DOM.html)：DOM结构
 4. [模块组件](docs/module.md)：模块组件组件介绍
@@ -40,10 +40,10 @@
 
 * **v1.0.0.3** ：2015/4/22
 	- 编写说明文档
-	
+
 * **v1.0.0.2** ：2015/4/21
 	- 投票确定Logo图案；
-	
+
 * **v1.0.0.1** ：2015/4/20
 	- 重绘Logo；
 
@@ -64,7 +64,7 @@
 
 说明|尺寸| 图片
 ----|---|---
-友链Logo（浅）| 88 x 31 |![xuejs.logo icon](src/img/logo/xue.ui.88_31.png)
-友链Logo（深）| 88 x 31 |![xuejs.logo icon](src/img/logo/xue.ui.88_31_gray.png)
-宣传Logo（浅）| 256x256 |![xuejs.logo icon](src/img/logo/xue.ui.256.png)
-宣传Logo（灰）| 256x256 |![xuejs.logo icon](src/img/logo/xue.ui.256_gray.png)
+友链Logo（浅）| 88 x 31 |![xuejs.logo icon](src/img/logo/xue.js_88_31_white.gif)
+友链Logo（深）| 88 x 31 |![xuejs.logo icon](src/img/logo/xue.js_88_31_deep.gif)
+宣传Logo（浅）| 256x256 |![xuejs.logo icon](src/img/logo/xuejs_logo_400_light_font.png)
+宣传Logo（灰）| 256x256 |![xuejs.logo icon](src/img/logo/xuejs_logo_400_font.png)
